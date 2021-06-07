@@ -53,8 +53,6 @@ Example of the per-pixel labeled data:
 	  - 7 images for validation (609686 pixels);
 	  - 16 images for testing (1393568 pixels);
 
-![ANN Patches](https://github.com/rereee3/Hyperspectral_Segmentation/blob/master/Figures/ann_patches.png)
-
 ## Results:
 
 - Example of the outputs of different methods (NIR)
