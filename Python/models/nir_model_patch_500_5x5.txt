@@ -1,0 +1,18 @@
+last epoch
+	195s 346ms/step - loss: 0.5085 - accuracy: 0.8316 - val_loss: 1.6986 - val_accuracy: 0.9183
+
+checkpoint
+	best, val_accuracy
+
+BATCH_SIZE = 2^13
+EPOCHS = 500
+
+TRAIN_PERCENTAGE = 0.7
+VALIDATE_PERCENTAGE = 0.1
+PREDICT_PERCENTAGE = 0.2
+
+filters
+conv3d 16
+conv3d 32
+dense 256
+dense 64

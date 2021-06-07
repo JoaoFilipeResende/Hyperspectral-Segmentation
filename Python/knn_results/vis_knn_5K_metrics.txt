@@ -1,0 +1,17 @@
+                                       precision    recall  f1-score   support
+
+                                 Road       0.76      0.90      0.83   1063158
+                             Sidewalk       0.42      0.15      0.22    345318
+                         Lane Markers       0.23      0.25      0.24     32996
+                                Grass       0.62      0.63      0.63    269587
+                           Vegetation       0.57      0.54      0.55    306966
+          Panels/Signs/Traffic Lights       0.13      0.05      0.07     61665
+                 Building/Wall/Others       0.25      0.40      0.31    115656
+               Car/Truck/Train/Bus...       0.42      0.33      0.37     58135
+Pedestrian/Cyclist/Motocyclist/Animal       0.00      0.00      0.00         0
+                                  Sky       0.97      1.00      0.98    454003
+
+                             accuracy                           0.69   2707484
+                            macro avg       0.44      0.43      0.42   2707484
+                         weighted avg       0.67      0.69      0.67   2707484
+

@@ -1,0 +1,8 @@
+Link: https://hyko-proxy.uni-koblenz.de/hyko-dataset/HyKo2/nir/
+
+	
+.mat files name must be changed:
+
+Example:
+
+"set-_00088_spec_annotated.mat" to "spec_annotated (01).mat"

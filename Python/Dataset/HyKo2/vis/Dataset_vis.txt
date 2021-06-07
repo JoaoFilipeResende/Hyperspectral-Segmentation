@@ -1,0 +1,7 @@
+Link: https://hyko-proxy.uni-koblenz.de/hyko-dataset/HyKo2/vis/
+	
+.mat files name must be changed:
+
+Example:
+
+"set-_00044_spec_annotated.mat" to "spec_annotated (001).mat"
